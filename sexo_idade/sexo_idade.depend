@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668732394 source:c:\users\convidado_\desktop\arquivos desk fatec\programação c\exemplo_if\sexo_idade\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

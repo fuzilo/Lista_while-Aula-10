@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668708793 source:c:\users\fuzil\onedrive\Área de trabalho\listaalgoritmosc\lista_while\valores_entre_1_e_n\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

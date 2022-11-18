@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1668706506 source:c:\users\fuzil\onedrive\Área de trabalho\listaalgoritmosc\lista_while\numeros_1_a_20\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1668728085 source:c:\users\convidado_\desktop\listaalgoritmosc\lista_while\numeros_1_a_20\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

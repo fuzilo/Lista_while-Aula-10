@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1668728085 source:c:\users\convidado_\desktop\listaalgoritmosc\lista_while\decrescente_1_a_10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
